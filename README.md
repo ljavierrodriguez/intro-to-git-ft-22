@@ -51,3 +51,19 @@ Crear una nueva rama:
 ```shell
 git branch <nombre_rama>
 ```
+
+Activar una rama
+```shell
+git checkout <nombre_rama>
+```
+
+Unificar ramas
+
+```shell
+git merge <nombre_rama>
+```
+
+Repositorios remotos
+```shell
+git remote add <nombre_remoto> <url_del_repositorio>
+```
