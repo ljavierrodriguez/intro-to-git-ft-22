@@ -32,3 +32,15 @@ Confirmar cambios
 ```shell
 git commit -m "Mensaje descriptivo de los cambios"
 ```
+
+Ver el estado y el historial
+
+Para ver el estado
+```shell
+git status
+```
+
+Para ver el historial
+```shell
+git log
+```
