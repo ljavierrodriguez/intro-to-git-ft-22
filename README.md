@@ -67,3 +67,13 @@ Repositorios remotos
 ```shell
 git remote add <nombre_remoto> <url_del_repositorio>
 ```
+
+Subir cambios al repositorio remoto
+```shell
+git push <nombre_remoto> <nombre_rama> 
+```
+
+Bajar cambios del repositorio remoto
+```shell
+git pull <nombre_remoto> <nombre_rama> 
+```
