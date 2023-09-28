@@ -44,3 +44,10 @@ Para ver el historial
 ```shell
 git log
 ```
+
+Ramas (Branch)
+
+Crear una nueva rama:
+```shell
+git branch <nombre_rama>
+```
